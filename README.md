@@ -1,10 +1,10 @@
+
 <h1 align="center">Hello 👋, I'm Karanvir Chima</h1>
 <h3 align="center">A passionate software developer from Folsom, CA</h3>
 <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karanvirchima&label=Profile%20views&color=0e75b6&style=flat" alt="karanvirchima" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanvirchima" alt="karanvirchima" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karanvirchima&label=Profile%20views&color=0e75b6&style=flat" alt="karanvirchima" /> </p>
 
 - 📫 How to reach me **karanvirchima@gmail.com**
 
@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanvirchima&show_icons=true&locale=en" alt="karanvirchima" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanvirchima&" alt="karanvirchima" /></p>
+
