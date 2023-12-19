@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Karanvir Chima</h1>
 <h3 align="center">A passionate software developer from Folsom, CA</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanvirchima&label=Profile%20views&color=0e75b6&style=flat" alt="karanvirchima" /> </p>
 
